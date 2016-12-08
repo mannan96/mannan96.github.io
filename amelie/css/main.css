@@ -35,8 +35,8 @@ div.ex1 {
   /* 815px wide and 315px high.   */
   header {
     background-image: url("../images/amelie.jpg");
-    width: 851px;
-    height: 315px;
+    width:815px;
+    height: 350px;
     background-repeat: no-repeat;
     background-size: cover;
   }
@@ -63,11 +63,7 @@ div.ex1 {
 
   /* Change the background     */
   /* color of the footer below */
-  footer {
-    clear: left;
-    width: 100%;
-    background: #ccc;
-    padding: 4px 0;
+
   }
 
   #wrapper {
